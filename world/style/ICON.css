@@ -1,0 +1,50 @@
+
+@font-face {
+font-family: Merryweather;
+src:url(fonts/Merriweather-Regular.otf);
+}
+
+.sandbox.sheet .smalltip{
+font-family:Merryweather;
+  font-size: 10px;
+
+}
+
+.sandbox.sheet .headerstyle1{
+background: red;
+}
+
+.sandbox.sheet .merrytitle {
+font-family:Merryweather;
+background:#979797;
+color:black;
+text-shadow:none;
+letter-spacing: 2px
+}
+
+.sandbox.sheet .merryinput {
+font-family:Merryweather;
+background: rgba(0,0,0,0.05) !important
+}
+
+.sandbox.sheet .merrytextarea {
+font-family:Merryweather;
+font-size: 11px;
+}
+
+.sandbox.sheet .merrylabel {
+font-family:Merryweather;
+
+}
+
+.sandbox.sheet .merrytitlesta { font-family:Merryweather; background:#ee220c; color:white; text-shadow:none; letter-spacing: 2px
+}
+
+.sandbox.sheet .merrytitlevag { font-family:Merryweather; background:#feae00; color:white; text-shadow:none; letter-spacing: 2px
+}
+
+.sandbox.sheet .merrytitlemen { font-family:Merryweather; background:#61d836; color:white; text-shadow:none; letter-spacing: 2px
+}
+
+.sandbox.sheet .merrytitlewri { font-family:Merryweather; background:#00a2ff; color:white; text-shadow:none; letter-spacing: 2px
+}

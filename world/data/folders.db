@@ -1,0 +1,95 @@
+{"_id":"0PQSYgPCxAmcVm2K","name":"Notes Tab","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Template","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"0YjbFYXXxV0rrTf6"}
+{"name":"Ideals Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"0p3zZsya06dWcSql"}
+{"name":"Properties","type":"Item","parent":"erdlk8d3D8yYyATw","sorting":"a","sort":0,"color":null,"flags":{},"_id":"0wm31t0dJ8dq5Pdo"}
+{"_id":"1ECKqaIQoEWJxCyf","name":"Buffs Panel","type":"Item","parent":"0PQSYgPCxAmcVm2K","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"1sMrSXusBJT79WsW","name":"Properties","type":"Item","parent":"1ECKqaIQoEWJxCyf","sorting":"a","sort":100000,"color":"","flags":{}}
+{"name":"Foe Tab","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"1zkNRe0dZARIVmp0"}
+{"name":"Special Mechanic Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"2FFhDQ40IOne7te9"}
+{"name":"Camp Fixtures Panel","type":"Item","parent":"IL9EJcaj8KjJis3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"2fchkIpwqoaUJhUS"}
+{"name":"Properties","type":"Item","parent":"IQBb9kvnBGuBhdP2","sorting":"a","sort":0,"color":null,"flags":{},"_id":"2wC3NdqfyOK4FmIh"}
+{"name":"Properties","type":"Item","parent":"uE1vOKNWdgu7sddC","sorting":"a","sort":0,"color":null,"flags":{},"_id":"3WLVqdTeD2TZrHne"}
+{"_id":"3htTsxqlC4KdB3KF","name":"Notes Panel","type":"Item","parent":"0PQSYgPCxAmcVm2K","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Acquired Jobs Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"59eAznM0Wo5kyi2c"}
+{"name":"Basic Info Panel","type":"Item","parent":"JVPgjdhSNCq9zd0A","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6CjnYPVMVlSN3EHx"}
+{"name":"Narrative Tab","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"7Ncvzg0mxhTn8O4o"}
+{"_id":"7V4x3NqqNRQaVkXM","name":"Effort & Strain Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Properties","type":"Item","parent":"O7jL9VScMoUrYw0Z","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8Ejwh2mJfhK3SWZB"}
+{"name":"Properties","type":"Item","parent":"2FFhDQ40IOne7te9","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9M0DFC6trXaHBfLe"}
+{"_id":"9VJrPq1HXhvmiq3z","name":"Attack Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Combat Config Panel","type":"Item","parent":"d5gC5LgdWwJ2FPRF","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9v7tJ5p2FD6duhjZ"}
+{"_id":"Afmi0XiEfyebDJec","name":"Actions Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Properties","type":"Item","parent":"2fchkIpwqoaUJhUS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Am6d7d2gH1O9ssdn"}
+{"name":"Properties","type":"Item","parent":"9v7tJ5p2FD6duhjZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"BM7ih70ufV634149"}
+{"name":"Properties","type":"Item","parent":"iXdUFP53U858xj7x","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ChjieEJWt2p4zjfK"}
+{"name":"Properties","type":"Item","parent":"alAIn2ALXoadFM06","sorting":"a","sort":0,"color":null,"flags":{},"_id":"DVpQ3eXFSmzi9BwF"}
+{"name":"Foe Attack Panel","type":"Item","parent":"1zkNRe0dZARIVmp0","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EM1QMYP9T2UMYuI0"}
+{"name":"Properties","type":"Item","parent":"zS5zyi4bFTbehJJR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EkytOlowu3SsJorH"}
+{"name":"Learned Abilities Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"F09q3AvMx1ZqYcr6"}
+{"name":"Properties","type":"Item","parent":"7V4x3NqqNRQaVkXM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"FZbkrXRu8wf8QjRK"}
+{"name":"Boons and Banes Dialog","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"GQqU78Y2XsQzj5Ei"}
+{"_id":"HLxBwKEFVuQoxzAs","name":"Traits Panel","type":"Item","parent":"1zkNRe0dZARIVmp0","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"HZFiXthVIUzgXhKg","name":"Multipanels","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Camp Tab","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"IL9EJcaj8KjJis3V"}
+{"name":"Damage Dialog","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"IQBb9kvnBGuBhdP2"}
+{"_id":"IfUyBejwG5X8ZKgO","name":"Second Wind & Special Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"JVPgjdhSNCq9zd0A","name":"Basic Info Tab","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{}}
+{"name":"Combat Tab","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"KE3a7lqIRvEaGuhu"}
+{"name":"Properties","type":"Item","parent":"59eAznM0Wo5kyi2c","sorting":"a","sort":0,"color":null,"flags":{},"_id":"KqW8F9xeSJx2csGj"}
+{"name":"Properties","type":"Item","parent":"gY3aWa527ejZY3Ce","sorting":"a","sort":0,"color":null,"flags":{},"_id":"O357b92Q1M26QEYu"}
+{"_id":"O6FZhoSZRBEy42rv","name":"Properties","type":"Item","parent":"uKM4vsYTPLb5m8po","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Ambitions Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"O7jL9VScMoUrYw0Z"}
+{"name":"Burdens Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"OFeeit4krV9lfEUc"}
+{"name":"Properties","type":"Item","parent":"OFeeit4krV9lfEUc","sorting":"a","sort":0,"color":null,"flags":{},"_id":"OVjhjW9cIual2Qck"}
+{"name":"Damage Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"OatcGA9SAm6xIa14"}
+{"_id":"Oj7w9AdiRXtwEMt3","name":"Details Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Properties","type":"Item","parent":"GQqU78Y2XsQzj5Ei","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PjLEdr9Bly8EJjZy"}
+{"name":"Properties","type":"Item","parent":"3htTsxqlC4KdB3KF","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Q8vClqFsRrJjB5t8"}
+{"_id":"RSZp7DLgqLbOWvAY","name":"Special Actions Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Properties","type":"Item","parent":"IfUyBejwG5X8ZKgO","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Rn3b1WSNlbulMI0R"}
+{"name":"Properties","type":"Item","parent":"hxDQ1e6KoCFBA5gG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"SIZARDkpio6A56Ji"}
+{"name":"Properties","type":"Item","parent":"Afmi0XiEfyebDJec","sorting":"a","sort":0,"color":null,"flags":{},"_id":"TrUF9PpAhnUshHKg"}
+{"_id":"VIO1mw97kHCUc8TG","name":"Narrative Config Panel","type":"Item","parent":"d5gC5LgdWwJ2FPRF","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"VOPg1Gi1nVB0iUNk","name":"Speeds Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Limit Break Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"VY5vffS5X3RNXOOT"}
+{"name":"Properties","type":"Item","parent":"VOPg1Gi1nVB0iUNk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WVNmBN6wcB4iTXPW"}
+{"name":"Actions Panel","type":"Item","parent":"1zkNRe0dZARIVmp0","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WtrHstznckRqZxFW"}
+{"name":"Properties","type":"Item","parent":"HLxBwKEFVuQoxzAs","sorting":"a","sort":0,"color":null,"flags":{},"_id":"XMXK4nIUhjUYZPg4"}
+{"name":"Properties","type":"Item","parent":"RSZp7DLgqLbOWvAY","sorting":"a","sort":0,"color":null,"flags":{},"_id":"XWj2yN7rp5l3MOCm"}
+{"name":"Multipanels","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YdtJhrjG1UuLV5r5"}
+{"name":"Relics Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"alAIn2ALXoadFM06"}
+{"_id":"cahV9NFR1aVZMPuC","name":"Class Traits Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"d5gC5LgdWwJ2FPRF","name":"Settings Tab","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Samples","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dxepYeCmzPLyRTLe"}
+{"name":"Properties","type":"Item","parent":"9VJrPq1HXhvmiq3z","sorting":"a","sort":0,"color":null,"flags":{},"_id":"e52264CbYXpiEAJ7"}
+{"_id":"erdlk8d3D8yYyATw","name":"Job Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Properties","type":"Item","parent":"noD3ZZH2LV01f7dV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"fjzNYdwxL7DOK5vh"}
+{"name":"Multipanels","type":"Item","parent":"1zkNRe0dZARIVmp0","sorting":"a","sort":0,"color":null,"flags":{},"_id":"fnM3DbHdruQjF2yX"}
+{"name":"Properties","type":"Item","parent":"VY5vffS5X3RNXOOT","sorting":"a","sort":0,"color":null,"flags":{},"_id":"fy0nN7dl9Z8uqBcY"}
+{"name":"Class Resource and Resolve Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gY3aWa527ejZY3Ce"}
+{"name":"Camp Information Panel","type":"Item","parent":"IL9EJcaj8KjJis3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hojpgntc81vtZvN0"}
+{"name":"Properties","type":"Item","parent":"0p3zZsya06dWcSql","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hwqjRIizKGLOVXUX"}
+{"_id":"hxDQ1e6KoCFBA5gG","name":"Basic Combat Stats Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{}}
+{"name":"Properties","type":"Item","parent":"no0npjBdkE7tmUMc","sorting":"a","sort":0,"color":null,"flags":{},"_id":"iRxu9lBcCZT6z8B8"}
+{"_id":"iXdUFP53U858xj7x","name":"Foe Info Panel","type":"Item","parent":"1zkNRe0dZARIVmp0","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Properties","type":"Item","parent":"cahV9NFR1aVZMPuC","sorting":"a","sort":0,"color":null,"flags":{},"_id":"jAmtlXyFqiijeBVY"}
+{"_id":"jvT5q0ZflLbVTKlI","name":"Bond Powers Panel","type":"Item","parent":"7Ncvzg0mxhTn8O4o","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Properties","type":"Item","parent":"F09q3AvMx1ZqYcr6","sorting":"a","sort":0,"color":null,"flags":{},"_id":"lUDv5myvNYGkR39n"}
+{"_id":"mkUZthd7kIwHeSwJ","name":"Blights Panel Properties","type":"Item","parent":"wQ2eOfbm5ahysToM","sorting":"a","sort":100000,"color":"","flags":{}}
+{"name":"Group Resolve Panel","type":"Item","parent":"IL9EJcaj8KjJis3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"no0npjBdkE7tmUMc"}
+{"name":"Equipped Abilities Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"noD3ZZH2LV01f7dV"}
+{"name":"Properties","type":"Item","parent":"VIO1mw97kHCUc8TG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"pn5zvoixo5Wsc0Wh"}
+{"name":"Properties","type":"Item","parent":"OatcGA9SAm6xIa14","sorting":"a","sort":0,"color":null,"flags":{},"_id":"pr8BwPkPySHlGEmd"}
+{"name":"Properties","type":"Item","parent":"hojpgntc81vtZvN0","sorting":"a","sort":0,"color":null,"flags":{},"_id":"qBfeLtaNHdEKHIYB"}
+{"_id":"sYmND2t2REnHB9LR","name":"Look and Bio Panel","type":"Item","parent":"JVPgjdhSNCq9zd0A","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Experience/Dust Panel","type":"Item","parent":"JVPgjdhSNCq9zd0A","sorting":"a","sort":0,"color":null,"flags":{},"_id":"uE1vOKNWdgu7sddC"}
+{"_id":"uKM4vsYTPLb5m8po","name":"General Config Panel","type":"Item","parent":"d5gC5LgdWwJ2FPRF","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Properties","type":"Item","parent":"jvT5q0ZflLbVTKlI","sorting":"a","sort":0,"color":null,"flags":{},"_id":"uV7OwDOTRQNHbffG"}
+{"name":"Properties","type":"Item","parent":"sYmND2t2REnHB9LR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"vG3uf1qbe9p5UtAA"}
+{"name":"Properties","type":"Item","parent":"Oj7w9AdiRXtwEMt3","sorting":"a","sort":0,"color":null,"flags":{},"_id":"vSIsWcprZfk09e9a"}
+{"_id":"vnm033QMDsgNjDAN","name":"Status Panel Properties","type":"Item","parent":"wQ2eOfbm5ahysToM","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"wQ2eOfbm5ahysToM","name":"Status Panel","type":"Item","parent":"0PQSYgPCxAmcVm2K","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"wTQxRZEbTEu1SRTu","name":"Foe Vigor Panel","type":"Item","parent":"1zkNRe0dZARIVmp0","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Properties","type":"Item","parent":"WtrHstznckRqZxFW","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ylF7FhMcpaU88aYh"}
+{"name":"Properties","type":"Item","parent":"6CjnYPVMVlSN3EHx","sorting":"a","sort":0,"color":null,"flags":{},"_id":"z1uJRFRsRoT42rbR"}
+{"_id":"zS5zyi4bFTbehJJR","name":"Vigor and Wounds Panel","type":"Item","parent":"KE3a7lqIRvEaGuhu","sorting":"a","sort":0,"color":"","flags":{}}
