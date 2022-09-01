@@ -13,10 +13,9 @@ Its based on [DMerceless'](https://gitlab.com/danielrbs/icon-sandbox-world/-/tre
 - Skirmisher automatically makes your  Dash distance equal to your speed
 - CSS to spice things up a bit (optional)
 
-This project is a world using the Sandbox System Builder system on Foundry VTT, containing the basics to play the ICON System by Mastiff Press.
+(Just in case you stumbled upon this wihtout knowing what ICON is, find it here https://massif-press.itch.io/icon)
 
-
-### How to Install
+## How to Install
 
 1. Make sure you have Sandbox System Builder installed in Foundry VTT
 2. After this, go to the Game Worlds tab and click on the Install World button at the button.
