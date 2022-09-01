@@ -1,3 +1,6 @@
+### Warning!!
+Currently doesn't work with Foundry VTT V10, I haven't personally updated yet and the Sandbox System Builder hasn't updated either, as soon as this changes, I'll update the system and probably notify on [Pilot NET](https://discord.gg/ZwnF2uAJ)'s icon-resources channel
+
 ## Foundry VTT ICON Character Sheets using Sandbox System Builder
 
 Its based on [DMerceless'](https://gitlab.com/danielrbs/icon-sandbox-world/-/tree/main/) work, updated to 1.45 plus some additional stuff like:
