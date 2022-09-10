@@ -1,5 +1,9 @@
-### Warning!!
+### Warning
 Currently doesn't work with Foundry VTT V10, I haven't personally updated yet and the Sandbox System Builder hasn't updated either, as soon as this changes, I'll update the system and probably notify on [Pilot NET](https://discord.gg/ZwnF2uAJ)'s icon-resources channel
+
+## Property skirmisherbuff/wounds does not exist
+
+If this happens, click on the black arrow pointing down, if this happens when creating a Foe, pick the Player Character BEFORE the Foe, click the arrow and then switch to Foe, Foe's sheets weren't really touched from the original repo.
 
 ## Foundry VTT ICON Character Sheets using Sandbox System Builder
 
