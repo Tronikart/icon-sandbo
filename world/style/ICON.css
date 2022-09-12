@@ -4,6 +4,22 @@ font-family: Merryweather;
 src:url(fonts/Merriweather-Regular.otf);
 }
 
+@font-face {
+font-family: Capitals;
+src:url(fonts/Capitals-Regular.ttf);
+}
+
+.roll-flavor, .roll-sender-name {
+font-family:Capitals;
+font-style: normal;
+}
+
+.sbchat-message {
+    font-family:Merryweather;
+    font-size: 12px;
+}
+
+/* Sheet */
 .sandbox.sheet .smalltip{
 font-family:Merryweather;
   font-size: 10px;
@@ -15,7 +31,7 @@ background: red;
 }
 
 .sandbox.sheet .merrytitle {
-font-family:Merryweather;
+font-family:Capitals;
 background:#979797;
 color:black;
 text-shadow:none;
@@ -23,13 +39,54 @@ letter-spacing: 2px
 }
 
 .sandbox.sheet .merryinput {
-font-family:Merryweather;
+font-family:capitals;
 background: rgba(0,0,0,0.05) !important
 }
 
 .sandbox.sheet .merrytextarea {
 font-family:Merryweather;
 font-size: 11px;
+}
+
+.sandbox.sheet input.entityname {
+    font-family: Capitals;
+    letter-spacing: 2px;
+    border: none;
+    border-bottom: 3px #979797 solid;
+    padding: 5px 50px 0px 0px;
+    text-align: center;
+    color: #fff;
+    font-size: 38px;
+}
+
+.sandbox.sheet .rightblock {
+margin-top: 7px;
+}
+
+.sandbox.sheet .selectsheet {
+    padding: 0px 0px 0px 0px;
+    width: 80px;
+    border: 0px;
+}
+
+.sandbox.sheet .sheet-reload {
+    margin: auto;
+    font-size: 8px;
+    padding: 0px 0px;
+    color: #fff;
+}
+
+.sandbox.sheet .roll-free {
+    color: #fff;
+}
+
+.sandbox.sheet .sheet-header {
+background: url(img/header.png) repeat;
+background-size: 100%;
+}
+
+.sandbox.sheet nav.sheet-tabs{
+font-family:Capitals;
 }
 
 .sandbox.sheet .merrylabel {
@@ -48,3 +105,4 @@ font-family:Merryweather;
 
 .sandbox.sheet .merrytitlewri { font-family:Merryweather; background:#00a2ff; color:white; text-shadow:none; letter-spacing: 2px
 }
+
