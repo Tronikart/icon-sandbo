@@ -43,6 +43,13 @@ font-family:capitals;
 background: rgba(0,0,0,0.05) !important
 }
 
+.sandbox.sheet .merryfoeinput {
+font-family:capitals;
+background: rgba(0,0,0,0.05) !important;
+height:600px
+}
+
+
 .sandbox.sheet .merrytextarea {
 font-family:Merryweather;
 font-size: 11px;
